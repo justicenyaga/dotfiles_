@@ -2,8 +2,8 @@
 STATEFILE="/tmp/teams-for-linux-idle-state-$USER"
 LOG=/tmp/teams-watch-debug.log
 TEAMS_CLASS="teams-for-linux"
-AWAY_DELAY=15
-IDLE_TIMEOUT=30
+AWAY_DELAY=90
+IDLE_TIMEOUT=90
 
 IDLE=0
 UNFOCUSED_TOO_LONG=0
